@@ -71,7 +71,8 @@ python store_index.py
 # Finally run the following command
 streamlit run app.py
 ```
-Now,
+open your browser and navigate to:
 ```bash
-open up localhost:
+http://localhost:8501
+
 ```
