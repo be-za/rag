@@ -46,16 +46,16 @@ By integrating medical textbooks, this system aims to:
 ```bash
 git clone https://github.com/your-repo-url
 cd your-repo-directory
-
+```
 ## Step 2 – Create & Activate Conda Environment
 ```bash
 conda create -n cdssrag python=3.10 -y
 conda activate cdssrag
-
+```
 ## 📦 Step 3 – Install Requirements
 ```bash
 pip install -r requirements.txt
-
+```
 ## 🔐 Step 4 – Configure Environment Variables
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
